@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ARKON</title>
-	<atom:link href="http://arkonn.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://arkonn.github.io</link>
+	<atom:link href="https://arkonn.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkonn.github.io</link>
 	<description>Smoothing Humanity</description>
 	<lastBuildDate>Sat, 24 Nov 2018 09:30:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,22 +19,22 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>http://arkonn.github.io/wp-content/uploads/2018/11/cropped-arkon-logo-32x32.png</url>
+	<url>https://arkonn.github.io/wp-content/uploads/2018/11/cropped-arkon-logo-32x32.png</url>
 	<title>ARKON</title>
-	<link>http://arkonn.github.io</link>
+	<link>https://arkonn.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>DEVELOPERS DESK</title>
-		<link>http://arkonn.github.io/developers-desk/</link>
-		<comments>http://arkonn.github.io/developers-desk/#respond</comments>
+		<link>https://arkonn.github.io/developers-desk/</link>
+		<comments>https://arkonn.github.io/developers-desk/#respond</comments>
 		<pubDate>Sat, 24 Nov 2018 09:02:54 +0000</pubDate>
 		<dc:creator><![CDATA[Aditya Kolhatkar]]></dc:creator>
 				<category><![CDATA[DEVELOPERS 1]]></category>
 		<category><![CDATA[ANDROID]]></category>
 
-		<guid isPermaLink="false">http://arkonn.github.io/?p=115</guid>
+		<guid isPermaLink="false">https://arkonn.github.io/?p=115</guid>
 		<description><![CDATA[While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels: * Setting the [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels:</p>
 <p>* Setting the slider to center resulted in the device using the preset.</p>
@@ -44,22 +44,22 @@
 <p>To improve this experience, we&#8217;ve introduced two important changes to screen brightness in Android Pie:</p>
 <ol>
 <li>Better slider control</li>
-<li>Personalization of the brightness level                                                                                                                                                                                                                                                     <img class="alignnone size-medium wp-image-116" src="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-300x162.png" alt="" width="300" height="162" srcset="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR.png 300w, http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-230x124.png 230w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Personalization of the brightness level                                                                                                                                                                                                                                                     <img class="alignnone size-medium wp-image-116" src="https://arkonn.github.io/wp-content/uploads/2018/11/ANDR-300x162.png" alt="" width="300" height="162" srcset="https://arkonn.github.io/wp-content/uploads/2018/11/ANDR.png 300w, https://arkonn.github.io/wp-content/uploads/2018/11/ANDR-230x124.png 230w" sizes="(max-width: 300px) 100vw, 300px" /></li>
 </ol>
 ]]></content:encoded>
-			<wfw:commentRss>http://arkonn.github.io/developers-desk/feed/</wfw:commentRss>
+			<wfw:commentRss>https://arkonn.github.io/developers-desk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>DEVELPORES DESK</title>
-		<link>http://arkonn.github.io/develpores-desk/</link>
-		<comments>http://arkonn.github.io/develpores-desk/#respond</comments>
+		<link>https://arkonn.github.io/develpores-desk/</link>
+		<comments>https://arkonn.github.io/develpores-desk/#respond</comments>
 		<pubDate>Fri, 23 Nov 2018 09:17:12 +0000</pubDate>
 		<dc:creator><![CDATA[Aditya Kolhatkar]]></dc:creator>
 				<category><![CDATA[DEVELOPER 2]]></category>
 		<category><![CDATA[IOS]]></category>
 
-		<guid isPermaLink="false">http://arkonn.github.io/?p=118</guid>
+		<guid isPermaLink="false">https://arkonn.github.io/?p=118</guid>
 		<description><![CDATA[IOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that presently powers many of the company&#8217;s mobile devices, including the iPhone, iPad, and iPod Touch. It is the second most popular mobile operating system globally after Android. Originally unveiled in 2007 for the iPhone, iOS has been extended to support other Apple [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><strong>I</strong><b>OS</b> (formerly <b>iPhone OS</b>) is a <a title="Mobile operating system" href="https://en.wikipedia.org/wiki/Mobile_operating_system">mobile operating system</a> created and developed by <a title="Apple Inc." href="https://en.wikipedia.org/wiki/Apple_Inc.">Apple Inc.</a> exclusively for <a title="List of iOS devices" href="https://en.wikipedia.org/wiki/List_of_iOS_devices">its hardware</a>. It is the operating system that presently powers many of the company&#8217;s mobile devices, including the <a title="IPhone" href="https://en.wikipedia.org/wiki/IPhone">iPhone</a>, <a title="IPad" href="https://en.wikipedia.org/wiki/IPad">iPad</a>, and <a title="IPod Touch" href="https://en.wikipedia.org/wiki/IPod_Touch">iPod Touch</a>. It is the second most popular mobile operating system globally after <a title="Android (operating system)" href="https://en.wikipedia.org/wiki/Android_(operating_system)">Android</a>.</p>
 <p>Originally unveiled in 2007 for the <a title="IPhone" href="https://en.wikipedia.org/wiki/IPhone">iPhone</a>, iOS has been extended to support other Apple devices such as the <a title="IPod Touch" href="https://en.wikipedia.org/wiki/IPod_Touch">iPod Touch</a> (September 2007) and the <a title="IPad" href="https://en.wikipedia.org/wiki/IPad">iPad</a>(January 2010). As of March 2018, Apple&#8217;s <a title="App Store (iOS)" href="https://en.wikipedia.org/wiki/App_Store_(iOS)">App Store</a> contains more than 2.1 million iOS applications, 1 million of which are native for iPads.<sup id="cite_ref-9" class="reference"><a href="https://en.wikipedia.org/wiki/IOS#cite_note-9">[9]</a></sup> These <a title="Mobile app" href="https://en.wikipedia.org/wiki/Mobile_app">mobile apps</a> have collectively been downloaded more than 130 billion times.</p>
@@ -68,12 +68,12 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img class="alignnone size-full wp-image-119" src="http://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg" alt="" width="225" height="224" srcset="http://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg 225w, http://arkonn.github.io/wp-content/uploads/2018/11/IOS-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p><img class="alignnone size-full wp-image-119" src="https://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg" alt="" width="225" height="224" srcset="https://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg 225w, https://arkonn.github.io/wp-content/uploads/2018/11/IOS-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://arkonn.github.io/develpores-desk/feed/</wfw:commentRss>
+			<wfw:commentRss>https://arkonn.github.io/develpores-desk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments for ARKON</title>
-	<atom:link href="http://arkonn.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://arkonn.github.io</link>
+	<atom:link href="https://arkonn.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkonn.github.io</link>
 	<description>Smoothing Humanity</description>
-	<lastBuildDate>Sat, 24 Nov 2018 11:24:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Nov 2018 11:40:21 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>

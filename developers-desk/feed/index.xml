@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: DEVELOPERS DESK</title>
-	<atom:link href="http://arkonn.github.io/developers-desk/feed/" rel="self" type="application/rss+xml" />
-	<link>http://arkonn.github.io/developers-desk/</link>
+	<atom:link href="https://arkonn.github.io/developers-desk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkonn.github.io/developers-desk/</link>
 	<description>Smoothing Humanity</description>
-	<lastBuildDate>Sat, 24 Nov 2018 11:24:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Nov 2018 11:40:35 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
