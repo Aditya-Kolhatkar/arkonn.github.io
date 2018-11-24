@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ANDROID &#8211; ARKON</title>
+	<atom:link href="http://arkonn.github.io/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>http://arkonn.github.io</link>
+	<description>Smoothing Humanity</description>
+	<lastBuildDate>Sat, 24 Nov 2018 09:30:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://arkonn.github.io/wp-content/uploads/2018/11/cropped-arkon-logo-32x32.png</url>
+	<title>ANDROID &#8211; ARKON</title>
+	<link>http://arkonn.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DEVELOPERS DESK</title>
+		<link>http://arkonn.github.io/developers-desk/</link>
+		<comments>http://arkonn.github.io/developers-desk/#respond</comments>
+		<pubDate>Sat, 24 Nov 2018 09:02:54 +0000</pubDate>
+		<dc:creator><![CDATA[Aditya Kolhatkar]]></dc:creator>
+				<category><![CDATA[DEVELOPERS 1]]></category>
+		<category><![CDATA[ANDROID]]></category>
+
+		<guid isPermaLink="false">http://arkonn.github.io/?p=115</guid>
+		<description><![CDATA[While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels: * Setting the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels:</p>
+<p>* Setting the slider to center resulted in the device using the preset.</p>
+<p>* Setting the slider to the left of center applied a negative scale factor, making the screen dimmer than the preset.</p>
+<p>* Setting the slider to the right of center applied a positive scale factor, making the screen brighter than the preset.</p>
+<p>So, under low ambient light conditions, you might prefer a brighter screen than the preset level and move the brightness slider up accordingly. But, because that adjustment would boost the brightness at all ambient light levels, you might find yourself needing to move the brightness slider back down in brighter ambient light. And so on, back and forth.</p>
+<p>To improve this experience, we&#8217;ve introduced two important changes to screen brightness in Android Pie:</p>
+<ol>
+<li>Better slider control</li>
+<li>Personalization of the brightness level                                                                                                                                                                                                                                                     <img class="alignnone size-medium wp-image-116" src="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-300x162.png" alt="" width="300" height="162" srcset="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR.png 300w, http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-230x124.png 230w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>http://arkonn.github.io/developers-desk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

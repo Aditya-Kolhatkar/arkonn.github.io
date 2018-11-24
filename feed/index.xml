@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ARKON</title>
+	<atom:link href="http://arkonn.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://arkonn.github.io</link>
+	<description>Smoothing Humanity</description>
+	<lastBuildDate>Sat, 24 Nov 2018 09:30:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://arkonn.github.io/wp-content/uploads/2018/11/cropped-arkon-logo-32x32.png</url>
+	<title>ARKON</title>
+	<link>http://arkonn.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DEVELOPERS DESK</title>
+		<link>http://arkonn.github.io/developers-desk/</link>
+		<comments>http://arkonn.github.io/developers-desk/#respond</comments>
+		<pubDate>Sat, 24 Nov 2018 09:02:54 +0000</pubDate>
+		<dc:creator><![CDATA[Aditya Kolhatkar]]></dc:creator>
+				<category><![CDATA[DEVELOPERS 1]]></category>
+		<category><![CDATA[ANDROID]]></category>
+
+		<guid isPermaLink="false">http://arkonn.github.io/?p=115</guid>
+		<description><![CDATA[While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels: * Setting the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>While enabled, Android automatically selects a screen brightness that&#8217;s suitable for the user&#8217;s current ambient light conditions. Prior to Android Pie, the brightness slider didn&#8217;t represent an absolute screen brightness level, but a global adjustment factor for boosting or reducing the device manufacturer&#8217;s preset screen brightness curve across all ambient light levels:</p>
+<p>* Setting the slider to center resulted in the device using the preset.</p>
+<p>* Setting the slider to the left of center applied a negative scale factor, making the screen dimmer than the preset.</p>
+<p>* Setting the slider to the right of center applied a positive scale factor, making the screen brighter than the preset.</p>
+<p>So, under low ambient light conditions, you might prefer a brighter screen than the preset level and move the brightness slider up accordingly. But, because that adjustment would boost the brightness at all ambient light levels, you might find yourself needing to move the brightness slider back down in brighter ambient light. And so on, back and forth.</p>
+<p>To improve this experience, we&#8217;ve introduced two important changes to screen brightness in Android Pie:</p>
+<ol>
+<li>Better slider control</li>
+<li>Personalization of the brightness level                                                                                                                                                                                                                                                     <img class="alignnone size-medium wp-image-116" src="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-300x162.png" alt="" width="300" height="162" srcset="http://arkonn.github.io/wp-content/uploads/2018/11/ANDR.png 300w, http://arkonn.github.io/wp-content/uploads/2018/11/ANDR-230x124.png 230w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>http://arkonn.github.io/developers-desk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DEVELPORES DESK</title>
+		<link>http://arkonn.github.io/develpores-desk/</link>
+		<comments>http://arkonn.github.io/develpores-desk/#respond</comments>
+		<pubDate>Fri, 23 Nov 2018 09:17:12 +0000</pubDate>
+		<dc:creator><![CDATA[Aditya Kolhatkar]]></dc:creator>
+				<category><![CDATA[DEVELOPER 2]]></category>
+		<category><![CDATA[IOS]]></category>
+
+		<guid isPermaLink="false">http://arkonn.github.io/?p=118</guid>
+		<description><![CDATA[IOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that presently powers many of the company&#8217;s mobile devices, including the iPhone, iPad, and iPod Touch. It is the second most popular mobile operating system globally after Android. Originally unveiled in 2007 for the iPhone, iOS has been extended to support other Apple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>I</strong><b>OS</b> (formerly <b>iPhone OS</b>) is a <a title="Mobile operating system" href="https://en.wikipedia.org/wiki/Mobile_operating_system">mobile operating system</a> created and developed by <a title="Apple Inc." href="https://en.wikipedia.org/wiki/Apple_Inc.">Apple Inc.</a> exclusively for <a title="List of iOS devices" href="https://en.wikipedia.org/wiki/List_of_iOS_devices">its hardware</a>. It is the operating system that presently powers many of the company&#8217;s mobile devices, including the <a title="IPhone" href="https://en.wikipedia.org/wiki/IPhone">iPhone</a>, <a title="IPad" href="https://en.wikipedia.org/wiki/IPad">iPad</a>, and <a title="IPod Touch" href="https://en.wikipedia.org/wiki/IPod_Touch">iPod Touch</a>. It is the second most popular mobile operating system globally after <a title="Android (operating system)" href="https://en.wikipedia.org/wiki/Android_(operating_system)">Android</a>.</p>
+<p>Originally unveiled in 2007 for the <a title="IPhone" href="https://en.wikipedia.org/wiki/IPhone">iPhone</a>, iOS has been extended to support other Apple devices such as the <a title="IPod Touch" href="https://en.wikipedia.org/wiki/IPod_Touch">iPod Touch</a> (September 2007) and the <a title="IPad" href="https://en.wikipedia.org/wiki/IPad">iPad</a>(January 2010). As of March 2018, Apple&#8217;s <a title="App Store (iOS)" href="https://en.wikipedia.org/wiki/App_Store_(iOS)">App Store</a> contains more than 2.1 million iOS applications, 1 million of which are native for iPads.<sup id="cite_ref-9" class="reference"><a href="https://en.wikipedia.org/wiki/IOS#cite_note-9">[9]</a></sup> These <a title="Mobile app" href="https://en.wikipedia.org/wiki/Mobile_app">mobile apps</a> have collectively been downloaded more than 130 billion times.</p>
+<p>The iOS <a title="User interface" href="https://en.wikipedia.org/wiki/User_interface">user interface</a> is based upon <a title="Direct manipulation interface" href="https://en.wikipedia.org/wiki/Direct_manipulation_interface">direct manipulation</a>, using <a title="Multi-touch" href="https://en.wikipedia.org/wiki/Multi-touch">multi-touch</a> gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as <i>swipe</i>, <i>tap</i>, <i>pinch</i>, and <i>reverse pinch</i>, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal <a title="Accelerometer" href="https://en.wikipedia.org/wiki/Accelerometer">accelerom</a><a title="Accelerometer" href="https://en.wikipedia.org/wiki/Accelerometer">eters</a> are used by some applications to respond to shaking the device (one common result is the <a title="Undo" href="https://en.wikipedia.org/wiki/Undo">undo</a> command) or rotating it in <a title="3D modeling" href="https://en.wikipedia.org/wiki/3D_modeling">three dimensions</a> (one common result is switching between portrait and landscape mode). Apple has been significantly praised for incorporating thorough <a title="Accessibility" href="https://en.wikipedia.org/wiki/Accessibility">accessibility</a> functions into iOS, enabling users with vision and hearing disabilities to properly use its products.</p>
+<p>Major versions of iOS are released annually. The current version, <a title="IOS 12" href="https://en.wikipedia.org/wiki/IOS_12">iOS 12</a>, was released on September 17, 2018. It is available for all iOS devices with <a title="64-bit computing" href="https://en.wikipedia.org/wiki/64-bit_computing">64-bit processors</a>; the <a title="IPhone 5S" href="https://en.wikipedia.org/wiki/IPhone_5S">iPhone 5S</a> and later iPhone models, the <a title="IPad (2017)" href="https://en.wikipedia.org/wiki/IPad_(2017)">iPad (2017)</a>, the <a title="IPad Air" href="https://en.wikipedia.org/wiki/IPad_Air">iPad Air</a> and later iPad Air models, all <a title="IPad Pro" href="https://en.wikipedia.org/wiki/IPad_Pro">iPad Pro</a> models, the <a title="IPad Mini 2" href="https://en.wikipedia.org/wiki/IPad_Mini_2">iPad Mini 2</a> and later iPad Mini models, and the <a title="IPod Touch (6th generation)" href="https://en.wikipedia.org/wiki/IPod_Touch_(6th_generation)">sixth-generation iPod Touch</a>. On all recent iOS devices, the iOS regularly checks on the availability of an update, and if one is available, will prompt the user to permit its automatic installation<strong>.</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-119" src="http://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg" alt="" width="225" height="224" srcset="http://arkonn.github.io/wp-content/uploads/2018/11/IOS.jpg 225w, http://arkonn.github.io/wp-content/uploads/2018/11/IOS-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://arkonn.github.io/develpores-desk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
